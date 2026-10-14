@@ -1,0 +1,104 @@
+order_id,customer_name,product,category,price,quantity,city,order_date,payment_method
+1,Reza,Chair,Furniture,140.1,2,Tehran,2025-05-10,Card
+2,Nima,Laptop,Electronics,870.89,4,Shiraz,2025-06-18,Card
+3,Parsa,Monitor,Electronics,198.67,1,Shiraz,15/03/2025,Online
+4,Arman,Laptop,Electronics,881.3,2,Tehran,2025-04-17,Cash
+5,Sina,Chair,Furniture,141.67,1,Isfahan,2025-04-29,Online
+6,Parsa,Keyboard,Electronics,-120.0,4,Mashhad,2025-02-19,Online
+7,Mina,Notebook,Stationery,5.19,5,Tabriz,2025-02-14,Cash
+8,Ali,Mouse,Electronics,24.41,3,Mashhad,2025-03-15,Online
+9,Ali,Chair,Furniture,146.3,5,Mashhad,2025-02-04,Cash
+10,Reza,Monitor,Electronics,220.38,3,Mashhad,"March 20, 2025",Card
+11,Yas,Chair,Furniture,152.44,1,Shiraz,2025-05-27,Cash
+12,Reza,Notebook,Stationery,99999.0,1,Mashhad,2025-05-17,Card
+13,Reza,Backpack,Accessories,32.58,3,Shiraz,2025-04-27,Card
+14,Mina,Backpack,Accessories,32.52,4,Mashhad,2025-05-19,Online
+15,Yas,Mouse,Electronics,26.87,2,Tehran,invalid_date,Cash
+16,Sina,Monitor,Electronics,234.36,2,,2025-03-04,Online
+17,Sina,Chair,Furniture,129.96,3,Isfahan,2025-04-25,Online
+18,Mina,Mouse,Electronics,24.61,3,Shiraz,2025-02-15,Cash
+19,Sara,Chair,Furniture,141.96,1,Mashhad,2025-06-03,Cash
+20,Parsa,Notebook,Stationery,5.32,5,Mashhad,2025-05-04,Cash
+21,Ali,Pen Pack,Stationery,2.73,5,Isfahan,2025-01-27,Cash
+22,Reza,Mouse,Electronics,24.61,1,Mashhad,2025-03-14,Card
+23,Parsa,Mouse,Electronics,,4,Tehran,2025-02-04,Cash
+24,Ali,Backpack,Accessories,32.53,4,Tehran,2025-05-22,Cash
+25,Nima,Monitor,Electronics,229.41,3,Mashhad,2025-04-08,Online
+26,Yas,Notebook,Stationery,4.95,4,Shiraz,2025-06-28,Cash
+27,Mina,Monitor,Electronics,228.41,3,Mashhad,2025-06-12,Online
+28,Niloofar,Headphones,Electronics,81.81,5,Mashhad,2025-03-04,Card
+29,Mina,Monitor,Electronics,202.22,2,Tabriz,2025-05-19,Cash
+30,Arman,Notebook,Stationery,5.44,2,Tabriz,2025-04-03,Card
+31,Nima,Backpack,Accessories,33.0,4,Tehran,2025-01-16,Cash
+32,Niloofar,Desk,Furniture,192.7,4,Tabriz,2025-01-30,Online
+33,Parsa,Monitor,Electronics,240.61,4,Tabriz,2025-03-26,Card
+34,Sina,Laptop,Electronics,913.39,4,Mashhad,2025-02-07,Cash
+35,Parsa,Laptop,Electronics,963.42,4,Tabriz,2025-01-04,Online
+36,Reza,Mouse,Electronics,26.9,2,Isfahan,2025-04-17,Online
+37,Yas,Mouse,Electronics,23.5,1,Shiraz,2025-04-02,Card
+38,Parsa,Desk,Furniture,166.48,2,,2025-04-20,Cash
+39,Nima,Pen Pack,Stationery,3.15,5,Shiraz,2025-04-03,Online
+40,Niloofar,Notebook,Stationery,,5,Mashhad,2025-03-15,Cash
+41,Ali,Keyboard,Electronics,43.81,2,Tehran,2025-01-11,Online
+42,Mina,Keyboard,Electronics,48.15,3,Tabriz,2025-03-15,Online
+43,Sara,Laptop,Electronics,1037.24,1,Tehran,2025-02-12,Cash
+44,Nima,Backpack,Accessories,34.22,1,Tabriz,2025-05-06,Card
+45,Ali,Desk,Furniture,,3,Tehran,2025-03-23,Online
+46,Sina,Monitor,Electronics,,4,Tehran,2025-04-14,Cash
+47,Ali,Monitor,Electronics,236.61,5,Tabriz,2025-01-21,Card
+48,Niloofar,Backpack,Accessories,33.27,5,Shiraz,2025-06-26,Online
+49,Nima,Backpack,Accessories,35.21,1,Mashhad,2025-01-01,Card
+50,Sara,Keyboard,Electronics,48.2,1,Mashhad,2025-01-31,Online
+51,Nima,Desk,Furniture,162.75,5,Shiraz,2025-04-03,Cash
+52,Reza,Notebook,Stationery,5.27,1,Shiraz,2025-02-18,Cash
+53,Yas,Pen Pack,Stationery,2.85,3,Tabriz,2025-01-06,Cash
+54,Niloofar,Chair,Furniture,,2,Isfahan,2025-05-18,Cash
+55,Sina,Laptop,Electronics,857.14,5,,2025-02-04,Card
+56,Nima,Headphones,Electronics,72.75,5,Isfahan,2025-02-09,Card
+57,Mina,Mouse,Electronics,26.96,5,Shiraz,2025-05-28,Card
+58,Sara,Laptop,Electronics,974.16,2,Mashhad,2025-05-16,Card
+59,Arman,Mouse,Electronics,23.9,3,Tehran,2025-03-11,Card
+60,Ali,Laptop,Electronics,1016.88,5,Isfahan,2025-01-04,Cash
+61,Niloofar,Laptop,Electronics,919.49,5,Tabriz,2025-06-24,Card
+62,Yas,Pen Pack,Stationery,3.19,1,Shiraz,2025-05-01,Card
+63,Mina,Backpack,Accessories,34.84,5,Isfahan,2025-01-11,Cash
+64,Parsa,Notebook,Stationery,5.08,4,Isfahan,2025-05-10,Cash
+65,Ali,Desk,Furniture,185.38,1,Mashhad,2025-05-28,Online
+66,Arman,Pen Pack,Stationery,3.26,5,,2025-03-03,Card
+67,Mina,Notebook,Stationery,4.56,5,Tabriz,2025-02-12,Cash
+68,Sara,Headphones,Electronics,77.29,2,Tabriz,2025-05-30,Card
+69,Yas,Notebook,Stationery,5.08,2,Tehran,2025-06-24,Cash
+70,Sina,Keyboard,Electronics,43.79,1,Shiraz,2025-02-02,Card
+71,Arman,Backpack,Accessories,,4,Mashhad,2025-05-03,Online
+72,Parsa,Notebook,Stationery,4.61,2,Shiraz,2025-04-20,Online
+73,Sara,Backpack,Accessories,33.58,5,Isfahan,2025-06-12,Online
+74,Sara,Pen Pack,Stationery,2.89,2,Shiraz,2025-04-27,Card
+75,Reza,Headphones,Electronics,80.37,4,Mashhad,2025-06-07,Card
+76,Nima,Laptop,Electronics,915.0,2,Tehran,2025-06-07,Card
+77,Sina,Chair,Furniture,126.79,1,Isfahan,2025-06-30,Card
+78,Sina,Laptop,Electronics,989.21,3,Tabriz,2025-04-15,Card
+79,Mina,Desk,Furniture,193.15,3,Tehran,2025-04-25,Cash
+80,Sara,Desk,Furniture,167.96,4,,2025-01-28,Cash
+81,Niloofar,Pen Pack,Stationery,,2,Isfahan,2025-04-01,Card
+82,Ali,Monitor,Electronics,230.14,2,Tehran,2025-01-09,Card
+83,Niloofar,Backpack,Accessories,35.93,4,Mashhad,2025-05-31,Cash
+84,Sara,Notebook,Stationery,,1,Tabriz,2025-01-05,Cash
+85,Arman,Desk,Furniture,170.24,4,Tehran,2025-05-06,Card
+86,Arman,Headphones,Electronics,82.3,4,Shiraz,2025-01-07,Cash
+87,Parsa,Backpack,Accessories,38.26,5,Tehran,2025-02-22,Cash
+88,Parsa,Chair,Furniture,144.47,5,Tehran,2025-02-05,Card
+89,Niloofar,Monitor,Electronics,204.24,4,Shiraz,2025-04-02,Online
+90,Reza,Pen Pack,Stationery,3.13,2,Tabriz,2025-05-27,Online
+91,Niloofar,Monitor,Electronics,205.37,2,Mashhad,2025-04-02,Online
+92,Sina,Keyboard,Electronics,47.4,5,Shiraz,2025-04-17,Card
+93,Sina,Keyboard,Electronics,41.43,3,Shiraz,2025-03-26,Card
+94,Mina,Chair,Furniture,135.81,4,Shiraz,2025-05-22,Card
+95,Sina,Chair,Furniture,148.1,3,Tehran,2025-04-16,Online
+96,Arman,Pen Pack,Stationery,3.02,1,Tabriz,2025-03-11,Card
+97,Ali,Desk,Furniture,179.4,2,Tabriz,2025-05-03,Cash
+98,Yas,Monitor,Electronics,210.18,3,Shiraz,2025-03-10,Online
+99,Nima,Mouse,Electronics,26.16,3,Tabriz,2025-01-02,Online
+100,Yas,Laptop,Electronics,967.56,5,Tabriz,2025-05-09,Cash
+4,Arman,Laptop,Electronics,881.3,2,Tehran,2025-04-17,Cash
+8,Ali,Mouse,Electronics,24.41,3,Mashhad,2025-03-15,Online
+16,Sina,Monitor,Electronics,234.36,2,,2025-03-04,Online
