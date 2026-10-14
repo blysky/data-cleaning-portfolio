@@ -1,7 +1,7 @@
 ,order_id,customer_name,product,category,price,quantity,city,order_date,payment_method,total_price
 0,1,Reza,Chair,Furniture,140.1,2,Tehran,2025-05-10,Card,280.2
 4,5,Sina,Chair,Furniture,141.67,1,Isfahan,2025-04-29,Online,141.67
-6,7,Mina,Notebook,Stationery,5.19,5,Tabriz,2025-02-14,Cash,25.950000000000003
+6,7,Mina,Notebook,Stationery,5.19,5,Tabriz,2025-02-14,Cash,25.95
 7,8,Ali,Mouse,Electronics,24.41,3,Mashhad,2025-03-15,Online,73.23
 8,9,Ali,Chair,Furniture,146.3,5,Mashhad,2025-02-04,Cash,731.5
 10,11,Yas,Chair,Furniture,152.44,1,Shiraz,2025-05-27,Cash,152.44
@@ -31,8 +31,8 @@
 40,41,Ali,Keyboard,Electronics,43.81,2,Tehran,2025-01-11,Online,87.62
 41,42,Mina,Keyboard,Electronics,48.15,3,Tabriz,2025-03-15,Online,144.45
 43,44,Nima,Backpack,Accessories,34.22,1,Tabriz,2025-05-06,Card,34.22
-46,47,Ali,Monitor,Electronics,236.61,5,Tabriz,2025-01-21,Card,1183.0500000000002
-47,48,Niloofar,Backpack,Accessories,33.27,5,Shiraz,2025-06-26,Online,166.35000000000002
+46,47,Ali,Monitor,Electronics,236.61,5,Tabriz,2025-01-21,Card,1183.05
+47,48,Niloofar,Backpack,Accessories,33.27,5,Shiraz,2025-06-26,Online,166.35
 48,49,Nima,Backpack,Accessories,35.21,1,Mashhad,2025-01-01,Card,35.21
 49,50,Sara,Keyboard,Electronics,48.2,1,Mashhad,2025-01-31,Online,48.2
 50,51,Nima,Desk,Furniture,162.75,5,Shiraz,2025-04-03,Cash,813.75
@@ -40,18 +40,18 @@
 52,53,Yas,Pen Pack,Stationery,2.85,3,Tabriz,2025-01-06,Cash,8.55
 55,56,Nima,Headphones,Electronics,72.75,5,Isfahan,2025-02-09,Card,363.75
 56,57,Mina,Mouse,Electronics,26.96,5,Shiraz,2025-05-28,Card,134.8
-58,59,Arman,Mouse,Electronics,23.9,3,Tehran,2025-03-11,Card,71.69999999999999
+58,59,Arman,Mouse,Electronics,23.9,3,Tehran,2025-03-11,Card,71.69
 61,62,Yas,Pen Pack,Stationery,3.19,1,Shiraz,2025-05-01,Card,3.19
-62,63,Mina,Backpack,Accessories,34.84,5,Isfahan,2025-01-11,Cash,174.20000000000002
+62,63,Mina,Backpack,Accessories,34.84,5,Isfahan,2025-01-11,Cash,174.20
 63,64,Parsa,Notebook,Stationery,5.08,4,Isfahan,2025-05-10,Cash,20.32
 64,65,Ali,Desk,Furniture,185.38,1,Mashhad,2025-05-28,Online,185.38
-65,66,Arman,Pen Pack,Stationery,3.26,5,nan,2025-03-03,Card,16.299999999999997
-66,67,Mina,Notebook,Stationery,4.56,5,Tabriz,2025-02-12,Cash,22.799999999999997
+65,66,Arman,Pen Pack,Stationery,3.26,5,nan,2025-03-03,Card,16.29
+66,67,Mina,Notebook,Stationery,4.56,5,Tabriz,2025-02-12,Cash,22.79
 67,68,Sara,Headphones,Electronics,77.29,2,Tabriz,2025-05-30,Card,154.58
 68,69,Yas,Notebook,Stationery,5.08,2,Tehran,2025-06-24,Cash,10.16
 69,70,Sina,Keyboard,Electronics,43.79,1,Shiraz,2025-02-02,Card,43.79
 71,72,Parsa,Notebook,Stationery,4.61,2,Shiraz,2025-04-20,Online,9.22
-72,73,Sara,Backpack,Accessories,33.58,5,Isfahan,2025-06-12,Online,167.89999999999998
+72,73,Sara,Backpack,Accessories,33.58,5,Isfahan,2025-06-12,Online,167.89
 73,74,Sara,Pen Pack,Stationery,2.89,2,Shiraz,2025-04-27,Card,5.78
 74,75,Reza,Headphones,Electronics,80.37,4,Mashhad,2025-06-07,Card,321.48
 76,77,Sina,Chair,Furniture,126.79,1,Isfahan,2025-06-30,Card,126.79
@@ -61,15 +61,15 @@
 82,83,Niloofar,Backpack,Accessories,35.93,4,Mashhad,2025-05-31,Cash,143.72
 84,85,Arman,Desk,Furniture,170.24,4,Tehran,2025-05-06,Card,680.96
 85,86,Arman,Headphones,Electronics,82.3,4,Shiraz,2025-01-07,Cash,329.2
-86,87,Parsa,Backpack,Accessories,38.26,5,Tehran,2025-02-22,Cash,191.29999999999998
+86,87,Parsa,Backpack,Accessories,38.26,5,Tehran,2025-02-22,Cash,191.29
 87,88,Parsa,Chair,Furniture,144.47,5,Tehran,2025-02-05,Card,722.35
 88,89,Niloofar,Monitor,Electronics,204.24,4,Shiraz,2025-04-02,Online,816.96
 89,90,Reza,Pen Pack,Stationery,3.13,2,Tabriz,2025-05-27,Online,6.26
 90,91,Niloofar,Monitor,Electronics,205.37,2,Mashhad,2025-04-02,Online,410.74
 91,92,Sina,Keyboard,Electronics,47.4,5,Shiraz,2025-04-17,Card,237.0
-92,93,Sina,Keyboard,Electronics,41.43,3,Shiraz,2025-03-26,Card,124.28999999999999
+92,93,Sina,Keyboard,Electronics,41.43,3,Shiraz,2025-03-26,Card,124.28
 93,94,Mina,Chair,Furniture,135.81,4,Shiraz,2025-05-22,Card,543.24
-94,95,Sina,Chair,Furniture,148.1,3,Tehran,2025-04-16,Online,444.29999999999995
+94,95,Sina,Chair,Furniture,148.1,3,Tehran,2025-04-16,Online,444.29
 95,96,Arman,Pen Pack,Stationery,3.02,1,Tabriz,2025-03-11,Card,3.02
 96,97,Ali,Desk,Furniture,179.4,2,Tabriz,2025-05-03,Cash,358.8
 97,98,Yas,Monitor,Electronics,210.18,3,Shiraz,2025-03-10,Online,630.54
